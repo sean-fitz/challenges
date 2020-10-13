@@ -1,0 +1,4 @@
+we have created interface called Employee
+
+We must write code to complete the code to 
+satisfy the interface
